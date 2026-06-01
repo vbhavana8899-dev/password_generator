@@ -1,5 +1,5 @@
 # password_generator
-A secure password generator built in Python with customizable length and character sets
+
 Password Generator
 
 A simple Python project that generates secure random passwords based on user input.
