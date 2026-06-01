@@ -4,18 +4,18 @@ Password Generator
 
 A simple Python project that generates secure random passwords based on user input.
 
- Features
+ Features:
 
 - Generates random passwords
 - User can choose password length
 - Includes uppercase letters, lowercase letters, numbers, and special characters
 - Easy to use and beginner-friendly
 
- Technologies Used
+ Technologies Used:
 
 - Python 3
 
-  How to Run
+ How to Run:
 
 Make sure Python 3 is installed on your system.
 Download or clone this repository.
